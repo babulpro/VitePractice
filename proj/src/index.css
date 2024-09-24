@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ActiveLink{
+    @apply text-red-400 font-serif text-2xl
+}
